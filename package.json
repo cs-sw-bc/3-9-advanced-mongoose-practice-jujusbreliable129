@@ -1,0 +1,26 @@
+{
+  "name": "3-9-advanced-mongoose-practice-jujusbreliable129",
+  "version": "1.0.0",
+  "description": "1. Initialize NPM\r   ```\r   npm init -y\r   ```\r 2. install packages\r  ```\r  npm install mongoose\r  ```\r 3. Add/Change \"type\":\"module\" in package.json\r 4. Create your app.js and start working!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cs-sw-bc/3-9-advanced-mongoose-practice-jujusbreliable129.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/cs-sw-bc/3-9-advanced-mongoose-practice-jujusbreliable129/issues"
+  },
+  "homepage": "https://github.com/cs-sw-bc/3-9-advanced-mongoose-practice-jujusbreliable129#readme",
+  "dependencies": {
+    "mongoose": "^9.1.1",
+    "nodemon": "^3.1.11"
+  },
+  "devDependencies": {}
+}
